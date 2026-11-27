@@ -67,7 +67,7 @@ The system follows this process:
 ![EV Battery Hardware](fig2_hardware_implementation.png.png)
 
 ### 3. Web Dashboard
-![EV Battery Web Dashboard](dashboard.png)
+![EV Battery Web Dashboard](dashboard.png.png)
 
 
 ## Published Research Paper
@@ -107,7 +107,7 @@ IoT-Based-EV-Battery-Monitoring-System/
 │   ├── project-hardware.jpg
 │   ├── tft-display.jpg
 │   ├── dashboard.jpg
-│   └── sensor-connections.jpg
+│  
 │
 ├── Research-Paper/
 │   └── IJSREM-Research-Paper.pdf
