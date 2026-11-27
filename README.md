@@ -57,23 +57,18 @@ The system follows this process:
 4. Selected data is uploaded to ThingSpeak.
 5. A React-based dashboard retrieves cloud data for remote visualization.
 
+
 ## Project Images
 
-### 1. EV Battery Monitoring Hardware
+### 1. System Block Diagram
+![System Block Diagram](Block%20Diagram.png)
 
-![EV Battery Hardware](Images/project-hardware.jpg)
-
-### 2. TFT Touchscreen Display
-
-![TFT Display](Images/tft-display.jpg)
+### 2. EV Battery Hardware Implementation
+![EV Battery Hardware](fig2_hardware_implementation.png.png)
 
 ### 3. Web Dashboard
+![EV Battery Web Dashboard](dashboard.png)
 
-![Web Dashboard](Images/dashboard.jpg)
-
-### 4. Sensor Connections
-
-![Sensor Connections](Images/sensor-connections.jpg)
 
 ## Published Research Paper
 
@@ -93,7 +88,7 @@ The system follows this process:
 
 **Affiliation:** Department of Electronics and Communication Engineering, Kalpataru Institute of Technology, Tiptur, Karnataka, India.
 
-[Read Published Research Paper (PDF)](Research-Paper/IJSREM-Research-Paper.pdf)
+[📄 Read My Published Research Paper (PDF)](IJSREM-Research-Paper.pdf)
 
 ## Important Research Note
 
